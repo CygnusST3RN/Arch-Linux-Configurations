@@ -8,7 +8,7 @@ Run in konsole <br/>
 # Do these changes in /etc/package.conf
 
 <li>uncomment color</li>
-<li>ParallelDownloads</li>
+<li>uncomment ParallelDownloads</li>
 <li>add 'ILoveCandy' after ParallelDownloads </li>
 
 ## save the file and then try downloading something using pacman and see the difference
